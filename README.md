@@ -1,4 +1,10 @@
 <p align="center">
+  <a href="https://kaueprata.com"><img src="https://img.shields.io/badge/kaueprata.com-0D1117?style=for-the-badge&logo=googlechrome&logoColor=7EE787" alt="Site"></a>
+  <a href="https://www.linkedin.com/in/kauefpg"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <img src="https://img.shields.io/badge/IBMEC-Data_Science_%26_AI-161B22?style=for-the-badge&labelColor=0D1117" alt="IBMEC">
+</p>
+
+<p align="center">
   <img src="banner.svg" alt="sonder@homelab" width="100%">
 </p>
 
@@ -18,24 +24,24 @@ Na prática eu tiro trabalho repetitivo da frente: sistema de gestão em produç
 
 ## Stack
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy">
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind">
-<img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui">
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx">
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n">
-
-<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama">
-<img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" alt="FFmpeg">
-<img src="https://img.shields.io/badge/faster--whisper-161B22?style=flat-square&logoColor=white" alt="faster-whisper">
+<table>
+<tr>
+<td><b>Backend</b></td>
+<td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"></td>
+</tr>
+<tr>
+<td><b>Frontend</b></td>
+<td><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"> <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white"></td>
+</tr>
+<tr>
+<td><b>Infra</b></td>
+<td><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"></td>
+</tr>
+<tr>
+<td><b>IA &amp; mídia</b></td>
+<td><img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"> <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white"> <img src="https://img.shields.io/badge/faster--whisper-161B22?style=flat-square&logoColor=white"></td>
+</tr>
+</table>
 
 ## Projetos
 
@@ -89,5 +95,11 @@ Clone de LoL em Lua: movimentação por clique, sistema de habilidades, torres, 
 **Também já construí:** sites institucionais em produção, servidor de Minecraft self-hosted em Docker, automações em n8n e infra de acesso remoto com Tailscale.
 
 <p align="center">
+  <sub><a href="https://kaueprata.com">kaueprata.com</a></sub>
+</p>
+
+<p align="center">
   <sub>github.com/sonderzudo-lab</sub>
 </p>
+
+
