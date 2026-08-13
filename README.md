@@ -19,27 +19,27 @@ Boa parte do que faço vive em repositórios privados (sistemas em produção e 
 
 ### Stack
 
-**Backend** — Python · FastAPI · SQLAlchemy (async) · Pydantic v2 · PostgreSQL · Redis
-**Frontend** — React · shadcn/ui · Tailwind
-**Infra** — Docker · Linux (Ubuntu/VPS) · Nginx
-**IA & mídia** — Ollama · faster-whisper · TTS local · FFmpeg
-**Automação** — n8n · scraping · integração de APIs REST
+**Backend:** Python · FastAPI · SQLAlchemy (async) · Pydantic v2 · PostgreSQL · Redis
+**Frontend:** React · shadcn/ui · Tailwind
+**Infra:** Docker · Linux (Ubuntu/VPS) · Nginx
+**IA & mídia:** Ollama · faster-whisper · TTS local · FFmpeg
+**Automação:** n8n · scraping · integração de APIs REST
 
 ### Projetos
 
-**Sistema de gestão de garantias (FIDC)** — `privado`
+**Sistema de gestão de garantias (FIDC)** `privado`
 Plataforma de controle financeiro e de garantias rodando em produção. Múltiplas garantias por lançamento, histórico de auditoria e permissões por perfil de usuário.
 `FastAPI` `SQLAlchemy async` `PostgreSQL` `React` `Docker`
 
-**content-engine** — `privado`
+**content-engine** `privado`
 Pipeline de vídeo automatizado ponta a ponta: geração de roteiro, narração, legendas e montagem, com modelos rodando localmente.
 `Ollama` `Kokoro-82M` `faster-whisper` `FFmpeg` `Redis`
 
-**Scanner nutricional (PWA)** — `privado`
+**Scanner nutricional (PWA)** `privado`
 Leitor de código de barras que consulta a Open Food Facts e devolve a informação nutricional na hora.
 `FastAPI` `PWA` `Open Food Facts API`
 
-**MOBA em Roblox** — `privado`
+**MOBA em Roblox** `privado`
 Clone de LoL feito em Lua: movimentação por clique, sistema de habilidades, torres, minions, economia, seleção de campeão e gerador de mapa programático.
 `Lua` `Roblox` `Blender`
 
