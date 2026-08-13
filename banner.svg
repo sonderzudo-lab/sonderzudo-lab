@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 270" width="1000" height="270" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+
+  <rect x="1" y="1" width="998" height="268" rx="10" fill="#0D1117" stroke="#30363D" stroke-width="1.5"/>
+  <path d="M1 11 a10 10 0 0 1 10 -10 h978 a10 10 0 0 1 10 10 v29 h-998 z" fill="#161B22"/>
+  <line x1="1" y1="40" x2="999" y2="40" stroke="#30363D" stroke-width="1.5"/>
+
+  <circle cx="26" cy="20" r="6" fill="#FF5F56"/>
+  <circle cx="48" cy="20" r="6" fill="#FFBD2E"/>
+  <circle cx="70" cy="20" r="6" fill="#27C93F"/>
+  <text x="500" y="25" font-size="13" fill="#8B949E" text-anchor="middle">sonder@homelab</text>
+
+  <text x="32" y="82" font-size="15">
+    <tspan fill="#7EE787">sonder@homelab</tspan><tspan fill="#C9D1D9">:</tspan><tspan fill="#79C0FF">~</tspan><tspan fill="#C9D1D9">$ systemctl status --user</tspan>
+  </text>
+
+  <circle cx="40" cy="119" r="5" fill="#3FB950"/>
+  <text x="60" y="124" font-size="15" fill="#E6EDF3">content-engine</text>
+  <text x="290" y="124" font-size="15" fill="#3FB950">active</text>
+  <text x="380" y="124" font-size="14" fill="#8B949E">ollama · kokoro-82m · faster-whisper · ffmpeg</text>
+
+  <circle cx="40" cy="153" r="5" fill="#3FB950"/>
+  <text x="60" y="158" font-size="15" fill="#E6EDF3">fidc-api</text>
+  <text x="290" y="158" font-size="15" fill="#3FB950">active</text>
+  <text x="380" y="158" font-size="14" fill="#8B949E">fastapi · postgres · react · docker</text>
+
+  <circle cx="40" cy="187" r="5" fill="#3FB950"/>
+  <text x="60" y="192" font-size="15" fill="#E6EDF3">scanner-pwa</text>
+  <text x="290" y="192" font-size="15" fill="#3FB950">active</text>
+  <text x="380" y="192" font-size="14" fill="#8B949E">fastapi · open food facts</text>
+
+  <text x="32" y="238" font-size="15">
+    <tspan fill="#7EE787">sonder@homelab</tspan><tspan fill="#C9D1D9">:</tspan><tspan fill="#79C0FF">~</tspan><tspan fill="#C9D1D9">$ </tspan>
+  </text>
+  <rect x="167" y="226" width="9" height="17" fill="#7EE787">
+    <animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+
+</svg>
